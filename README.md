@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎓 College Chatbot
 
 This is a smart college chatbot built using **Streamlit**, **Transformers (T5)**, and **Fuzzy FAQ Matching**.
