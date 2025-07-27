@@ -9,6 +9,15 @@ It supports:
 - 📄 PDF download of chat history
 - 🌐 Deployment-ready on Streamlit Cloud
 
+# Features
+
+-  Answer open-ended questions using a fine-tuned T5 model
+-  Fuzzy-matching for college FAQs
+-  Streamlit-based interactive UI
+-  Planned support for chat history context memory
+-  PDF export for chat responses (coming soon)
+
+
 ## 🏗️ Tech Stack
 
 - Python
@@ -20,23 +29,6 @@ It supports:
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/Shubam081220/College_chatbot.git
-cd College_chatbot
-pip install -r requirements.txt
-streamlit run frontend/app.py
- 
-=======
-# College Chatbot
-
-An intelligent chatbot for college-related queries, built using Streamlit and fine-tuned T5 model. It supports both open-ended question answering and FAQ-style fallback responses using fuzzy matching.
-
-# Features
-
--  Answer open-ended questions using a fine-tuned T5 model
--  Fuzzy-matching for college FAQs
--  Streamlit-based interactive UI
--  Planned support for chat history context memory
--  PDF export for chat responses (coming soon)
 
 # Getting Started
 
