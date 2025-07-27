@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Shubam081220/College_chatbot.git
+	fetch = +refs/*:refs/*
+	mirror = true

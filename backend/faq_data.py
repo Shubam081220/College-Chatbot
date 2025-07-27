@@ -1,0 +1,1 @@
+FAQS = {"what is the admission process": "The admission process involves filling out the online form, submitting documents, and attending counseling.", "what courses are offered": "We offer B.Tech, M.Tech, MBA, BBA, and various diploma programs.", "what are the hostel fees": "Hostel fees are ?60,000 per year including food and accommodation."} 
